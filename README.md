@@ -9,7 +9,7 @@
 <div>
   <a href = https://www.linkedin.com/in/a-taynaramachado/> 
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=TayMachadoPaes&show_icons=true&title_color=D30575&icon_color=D30575&bg_color=FFC6E5&custom_title=Tay_Machado"> 
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayMachadoPaes&layout=compact&hide_progress=true&title_color=D30575&bg_color=FFC6E5">
+  <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayMachadoPaes&layout=compact&hide_progress=true&title_color=D30575&bg_color=FFC6E5">
 </div>
 
 <div style="display: flex"><br>
